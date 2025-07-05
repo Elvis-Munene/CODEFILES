@@ -1,9 +1,9 @@
 /*
  * Connection credentials
 */
-#define SSID "ELVIS"
-#define PASSWORD "Gmunene@123"
-#define apiKeyValue "4nM6Zc8SIF3to9VsJu"
+#define SSID ""
+#define PASSWORD ""
+#define apiKeyValue ""
 /*
  * server auth CA certificate key
  * ------DO NOT EDIT--------
