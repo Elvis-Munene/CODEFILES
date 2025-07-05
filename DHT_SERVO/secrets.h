@@ -1,6 +1,6 @@
-#define SSID "ELVIS"
-#define PASSWORD "Gmunene@123"
-#define API_KEY "xP27YSfrbzwLNuJGpB"
+#define SSID ""
+#define PASSWORD ""
+#define API_KEY ""
 
 /*
  * server auth CA certificate key
